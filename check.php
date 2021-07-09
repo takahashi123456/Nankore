@@ -33,7 +33,7 @@ if (!empty($_POST)) {
     <link href="https://unpkg.com/sanitize.css"rel="stylesheet"/>
     <link  href="https://unpkg.com/sanitize.css/forms.css"  rel="stylesheet"/>
     <link  href="https://unpkg.com/sanitize.css/typography.css" rel="stylesheet"/>
-	<link rel="stylesheet" href="style.css" />
+	<link rel="stylesheet" href="./css/style.css" />
 </head>
 
 <body>
