@@ -5,4 +5,6 @@ Webapplication nankore
 
 追記、ローカル環境でしかデータベースが作られていないので使えないかもしれないと思われます
 
-今回DEMOで見せたファイル： 会員登録画面、機能 index.php check.php thank.php ログイン画面、機能 login.php コレクション投稿、機能 post/index.php list表示機能 post/list.php となっています
+今回のファイル： 会員登録画面、機能 index.php check.php thank.php ログイン画面、機能 login.php コレクション投稿、機能 post/index.php list表示機能 post/list.php となっています
+
+本当はLaravelで機能を移管したやつを見せたかったのですが間に合わなかったので素のPHPで描いたやつを載せます。
